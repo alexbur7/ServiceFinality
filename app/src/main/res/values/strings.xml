@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServicePush</string>
+    <string name="start_label">Enter the package</string>
+    <string name="start_btn_text">Start</string>
+    <string name="wrong_pack">wrong package</string>
+    <string name="accept_intent">Would you like to accept notification?</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_later">Later</string>
+</resources>
